@@ -1,1 +1,2 @@
-Proyecto de grado sobre un prototipo para monitoreo de calidad del aire sobre una aplicación web
+Proyecto de grado referente a un prototipo para monitoreo de calidad del aire sobre una aplicación movil
+ 
